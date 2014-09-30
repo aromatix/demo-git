@@ -21,4 +21,4 @@ Actions faites :
 11/ création du repository git-demo dans github
 12/ ajout du repo : git remote add origin https://github.com/aromatix/demo-git.git
 13/ MAJ readme.txt + git add "git_p2_activité.txt"  + git commit -am
-git push origin master
+git push -u origin master
