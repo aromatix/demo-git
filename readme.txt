@@ -18,3 +18,7 @@ Actions faites :
  9/ git add second-fichier.txt
 10/ vi readme.txt  // ajout des actions faites jusqu'ici et enregistrement
 
+11/ création du repository git-demo dans github
+12/ ajout du repo : git remote add origin https://github.com/aromatix/demo-git.git
+13/ MAJ readme.txt + git add "git_p2_activité.txt"  + git commit -am
+git push origin master
