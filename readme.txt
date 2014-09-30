@@ -13,4 +13,8 @@ Actions faites :
 5/ git add readme.txt
 6/ git commit
 
-7/ vi readme.txt  // ajout des actions faites jusqu'ici
+ 7/ cat > second-fichier.txt
+ 8/ git status
+ 9/ git add second-fichier.txt
+10/ vi readme.txt  // ajout des actions faites jusqu'ici et enregistrement
+
